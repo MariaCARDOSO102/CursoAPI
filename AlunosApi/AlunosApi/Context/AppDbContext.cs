@@ -16,6 +16,7 @@ namespace AlunosApi.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Aluno>().HasData(
                 new Aluno 
                 { 
