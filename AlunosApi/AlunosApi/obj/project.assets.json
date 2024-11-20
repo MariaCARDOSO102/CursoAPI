@@ -4422,11 +4422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4º ANO\\CursoAPI\\AlunosApi\\AlunosApi\\AlunosApi.csproj",
+      "projectUniqueName": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\AlunosApi.csproj",
       "projectName": "AlunosApi",
-      "projectPath": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4º ANO\\CursoAPI\\AlunosApi\\AlunosApi\\AlunosApi.csproj",
+      "projectPath": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\AlunosApi.csproj",
       "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4º ANO\\CursoAPI\\AlunosApi\\AlunosApi\\obj\\",
+      "outputPath": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

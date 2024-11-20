@@ -1,58 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\obj\\AlunosApi.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\obj\\AlunosApi.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3343DD58-3AD8-4A91-96B2-6319B1C75B23}|AppAPITestes\\AppAPITestes.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\appapitestes\\testelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3343DD58-3AD8-4A91-96B2-6319B1C75B23}|AppAPITestes\\AppAPITestes.csproj|solutionrelative:appapitestes\\testelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Controllers\\AlunosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\Controllers\\AlunosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Services\\AlunosService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\Services\\AlunosService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3343DD58-3AD8-4A91-96B2-6319B1C75B23}|AppAPITestes\\AppAPITestes.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\appapitestes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3343DD58-3AD8-4A91-96B2-6319B1C75B23}|AppAPITestes\\AppAPITestes.csproj|solutionrelative:appapitestes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Services\\IAlunoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\Services\\IAlunoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424171451_PopulaTabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\Migrations\\20240424171451_PopulaTabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Models\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\Models\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424003920_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\Migrations\\20240424003920_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\migrations\\20240424171451_populatabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\migrations\\20240424171451_populatabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Context\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\Context\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\migrations\\20240424003920_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\migrations\\20240424003920_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\AlunosApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\AlunosApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424003920_Inicial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlunosApi\\Migrations\\20240424003920_Inicial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\alunosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\alunosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|c:\\users\\maria\\downloads\\cursoapi\\alunosapi\\alunosapi\\migrations\\20240424003920_inicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC4A34-99A0-44B6-8779-623BE4EAD615}|AlunosApi\\AlunosApi.csproj|solutionrelative:alunosapi\\migrations\\20240424003920_inicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,159 +75,197 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AlunosApi.csproj.nuget.dgspec.json",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\obj\\AlunosApi.csproj.nuget.dgspec.json",
-              "RelativeDocumentMoniker": "AlunosApi\\obj\\AlunosApi.csproj.nuget.dgspec.json",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\obj\\AlunosApi.csproj.nuget.dgspec.json",
-              "RelativeToolTip": "AlunosApi\\obj\\AlunosApi.csproj.nuget.dgspec.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-25T00:39:22.814Z",
+              "Title": "TesteLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AppAPITestes\\TesteLogin.cs",
+              "RelativeDocumentMoniker": "AppAPITestes\\TesteLogin.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AppAPITestes\\TesteLogin.cs",
+              "RelativeToolTip": "AppAPITestes\\TesteLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:51:31.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AlunosApi\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwCQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:12:39.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AlunosService.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Services\\AlunosService.cs",
-              "RelativeDocumentMoniker": "AlunosApi\\Services\\AlunosService.cs",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Services\\AlunosService.cs",
-              "RelativeToolTip": "AlunosApi\\Services\\AlunosService.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AppAPITestes\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AppAPITestes\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AppAPITestes\\UnitTest1.cs",
+              "RelativeToolTip": "AppAPITestes\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T19:35:46.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AlunosController.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Controllers\\AlunosController.cs",
-              "RelativeDocumentMoniker": "AlunosApi\\Controllers\\AlunosController.cs",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Controllers\\AlunosController.cs",
-              "RelativeToolTip": "AlunosApi\\Controllers\\AlunosController.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAwwGsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T23:09:47.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAlunoService.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Services\\IAlunoService.cs",
-              "RelativeDocumentMoniker": "AlunosApi\\Services\\IAlunoService.cs",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Services\\IAlunoService.cs",
-              "RelativeToolTip": "AlunosApi\\Services\\IAlunoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T17:28:29.667Z"
+              "WhenOpened": "2024-11-07T16:06:31.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "AlunosApi\\Models\\Aluno.cs",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Models\\Aluno.cs",
-              "RelativeToolTip": "AlunosApi\\Models\\Aluno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAbAAAA",
+              "Title": "AlunosService.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Services\\AlunosService.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Services\\AlunosService.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Services\\AlunosService.cs",
+              "RelativeToolTip": "AlunosApi\\Services\\AlunosService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIBQwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T16:49:57.409Z"
+              "WhenOpened": "2024-04-24T19:35:46.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "AlunosApi\\Controllers\\AlunosController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:09:47.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Startup.cs",
-              "RelativeDocumentMoniker": "AlunosApi\\Startup.cs",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Startup.cs",
-              "RelativeToolTip": "AlunosApi\\Startup.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAA/AAAA",
+              "Title": "IAlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Services\\IAlunoService.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Services\\IAlunoService.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Services\\IAlunoService.cs",
+              "RelativeToolTip": "AlunosApi\\Services\\IAlunoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T16:31:06.849Z"
+              "WhenOpened": "2024-04-24T17:28:29.667Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20240424171451_PopulaTabela.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424171451_PopulaTabela.cs",
-              "RelativeDocumentMoniker": "AlunosApi\\Migrations\\20240424171451_PopulaTabela.cs",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424171451_PopulaTabela.cs",
-              "RelativeToolTip": "AlunosApi\\Migrations\\20240424171451_PopulaTabela.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Models\\Aluno.cs",
+              "RelativeToolTip": "AlunosApi\\Models\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T17:14:51.318Z"
+              "WhenOpened": "2024-04-22T16:49:57.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\appsettings.json",
-              "RelativeDocumentMoniker": "AlunosApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\appsettings.json",
-              "RelativeToolTip": "AlunosApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-23T00:15:55.776Z"
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Startup.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Startup.cs",
+              "RelativeToolTip": "AlunosApi\\Startup.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwBsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:31:06.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "20240424003920_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424003920_Inicial.cs",
-              "RelativeDocumentMoniker": "AlunosApi\\Migrations\\20240424003920_Inicial.cs",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424003920_Inicial.cs",
-              "RelativeToolTip": "AlunosApi\\Migrations\\20240424003920_Inicial.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBkAAAATAAAA",
+              "Title": "20240424171451_PopulaTabela.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424171451_PopulaTabela.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Migrations\\20240424171451_PopulaTabela.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424171451_PopulaTabela.cs",
+              "RelativeToolTip": "AlunosApi\\Migrations\\20240424171451_PopulaTabela.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T00:39:21.122Z"
+              "WhenOpened": "2024-04-24T17:14:51.318Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AlunosApi\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "AlunosApi\\Context\\AppDbContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T17:02:47.406Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AlunosApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\appsettings.json",
+              "RelativeToolTip": "AlunosApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T00:15:55.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Program.cs",
-              "RelativeDocumentMoniker": "AlunosApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Program.cs",
-              "RelativeToolTip": "AlunosApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Title": "20240424003920_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424003920_Inicial.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Migrations\\20240424003920_Inicial.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424003920_Inicial.cs",
+              "RelativeToolTip": "AlunosApi\\Migrations\\20240424003920_Inicial.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBkAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T15:47:44.128Z"
+              "WhenOpened": "2024-04-24T00:39:21.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AlunosApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\AlunosApi.csproj",
-              "RelativeDocumentMoniker": "AlunosApi\\AlunosApi.csproj",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\AlunosApi.csproj",
-              "RelativeToolTip": "AlunosApi\\AlunosApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-22T16:18:04.179Z"
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "AlunosApi\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:02:47.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Program.cs",
+              "RelativeDocumentMoniker": "AlunosApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Program.cs",
+              "RelativeToolTip": "AlunosApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:47:44.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AlunosApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\AlunosApi.csproj",
+              "RelativeDocumentMoniker": "AlunosApi\\AlunosApi.csproj",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\AlunosApi.csproj",
+              "RelativeToolTip": "AlunosApi\\AlunosApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T16:18:04.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "20240424003920_Inicial.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424003920_Inicial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424003920_Inicial.Designer.cs",
               "RelativeDocumentMoniker": "AlunosApi\\Migrations\\20240424003920_Inicial.Designer.cs",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\FACULDADE\\4\u00BA ANO\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424003920_Inicial.Designer.cs",
+              "ToolTip": "C:\\Users\\Maria\\Downloads\\CursoAPI\\AlunosApi\\AlunosApi\\Migrations\\20240424003920_Inicial.Designer.cs",
               "RelativeToolTip": "AlunosApi\\Migrations\\20240424003920_Inicial.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T00:41:52.084Z"
+              "WhenOpened": "2024-04-24T00:41:52.084Z",
+              "EditorCaption": ""
             }
           ]
         }
